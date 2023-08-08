@@ -1,4 +1,4 @@
 ## MetaData
 Section Type : Free Flow
 Review Allowed : True
-Total Questions : 100
+Total Questions : 8
