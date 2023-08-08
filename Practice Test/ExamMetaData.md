@@ -1,7 +1,7 @@
 ## MetaData
 Product Id : SPEKTRATEST
 Language : English
-Title : Spektra Development Test
+Title : Spektra Test
 Version : 1.0
 Product Type : Practice Test
 Pass Percentage : 70
@@ -15,7 +15,7 @@ Programming
 Cloud Computing
 
 ## Overview
-This test is designed to assess your knowledge on the basics of Cloud and test your programming skills.
+This test is designed to explain the various types of question allowed in the knowledge assessment of cloudlabs.
 
 ## Sections
 Section-01
