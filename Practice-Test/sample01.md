@@ -8,6 +8,17 @@
    
 # Types of the Questions and their format for the Practice Test(Knowledge Assessment).
 
+**There are eight types of Questions which are supported**
+
+   * Single Choice
+   * Multiple Choice
+   * Match Options
+   * Built List
+   * Dropdown
+   * Build Tree
+   * Multiple Single Choice
+   * Numeric Input
+
 ## Single Choice
  Only one answer can be selected from the given options.
 
@@ -19,7 +30,7 @@ We can create the single choice question by using below question format.
 
 
  ## Multiple Choice
-   It had more than one correct answer and the number of correct answers has to be specified under the Max answers tag.
+  It may have more than one right answer, and the quantity of right answers must be indicated under the Max answers tag.
 
   ![](./images/ptq4.png)
 
