@@ -1,3 +1,11 @@
+# How to Author Practice Test(Knowledge Assessment) in github?
+
+1. Create a **Public GitHub Repository**.
+
+2. Provide an access to the required members of the team.
+
+3. Follow the below GitHub URL to prepare questions for the Assessment.
+   
 # Types of the Question in the knowledge Assessment
 
 ## Single Choice
