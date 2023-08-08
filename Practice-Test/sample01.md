@@ -1,4 +1,4 @@
-# How to Author Practice Test(Knowledge Assessment) in github?
+# How to Author Practice Test(Knowledge Assessment) in GitHub?
 
 1. Create a **Public GitHub Repository**.
 
