@@ -6,7 +6,7 @@
 
 3. Follow the below steps to create Questions for the Assessment.
    
-# Types of the Question in the knowledge Assessment
+# Types of the Questions and their format for the Practice Test(Knowledge Assessment).
 
 ## Single Choice
  Only one answer can be selected from the given options.
