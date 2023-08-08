@@ -1,12 +1,12 @@
 ## MetaData
-Product Id : SPEKTRA100ASSESSMENT
+Product Id : SPEKTRATEST
 Language : English
 Title : Spektra Development Test
 Version : 1.0
 Product Type : Practice Test
 Pass Percentage : 80
 Total Sections : 1
-Total Questions : 10
+Total Questions : 8
 Minutes to Complete : 10
 CanUseActivationCode : False
 
