@@ -15,7 +15,7 @@
 
 We can create the single choice question by using below question format.
 
- Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-01.md
+ **Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-01.md**
 
 
  ## Multiple Choice
@@ -26,17 +26,17 @@ We can create the single choice question by using below question format.
 
 We can create the Multiple choice question by using below question format.
 
- Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-02.md
+ **Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-02.md**
 
 ## Match Options
-  We have Labels and options which we need to match, If the question text is long or a sentence, we can add it in the options instead of the labels.
+   We have Labels and options which we need to match, If the question text is long or a sentence, we can add it in the options instead of the labels.
 
   ![](./images/ptq2.png)
 
 
    We can create the Match Options question by using below question format.
 
- Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-03.md
+ **Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-03.md**
 
  ## Built List
   We need to arrange the options in a sequential manner
@@ -46,7 +46,7 @@ We can create the Multiple choice question by using below question format.
   
   We can create the Built List question by using below question format.
 
- Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-04.md
+ **Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-04.md**
 
  ## Dropdown
   We can use dropdown question type when we have multiple options and multiple questions in the single question. Any number of dropdowns can be used.
@@ -64,7 +64,7 @@ We can create the Multiple choice question by using below question format.
 
 We can create the Build Tree question by using below question format.
 
-Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-06.md
+**Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-06.md**
 
 ## Multiple Single Choice
 
@@ -74,7 +74,7 @@ Created a radio box with two options. Can be used when we have multiple question
 
 We can create the Multiple Single Choice question by using below question format.
 
-Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-07.md
+**Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-07.md**
 
 ##  Numeric Input
 
@@ -84,7 +84,7 @@ We can enter the numeric answer for the question.
 
 We can create the Numeric Input question by using below question format.
 
-Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-08.md
+**Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-08.md**
 
 **Note: Once you have authored the practice test in the github connect with the CloudLabs team to onboard it on the CloudLabs portal.**
 
