@@ -79,7 +79,7 @@ We can create the Build Tree question by using below question format.
 
 ## Multiple Single Choice
 
-Created a radio box with two options. Can be used when we have multiple questions which require binary answers like Yes or no or True or False
+Creates a radio box with two options can be utilized when we have several questions that call for binary responses, such as True or False or Yes or No.
 
 ![](./images/ptq1.png)
 
