@@ -14,6 +14,7 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 2. Click on **On Demand**** Labs** from the left navigation pane.
 3. Click on Edit under Actions.
 
+![](./images/i1.png)
 
 1. Scroll down towards the following fields mentioned below to add video file to On Demand Lab and fill in the required details. The field marked with an asterisk sign (\*) is mandatory. Refer to the explanation below If you need help understanding the usage of each field.
 
