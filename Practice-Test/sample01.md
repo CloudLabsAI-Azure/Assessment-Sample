@@ -5,6 +5,11 @@
 2. Provide an access to the required members of the team.
 
 3. Follow the below steps to create Questions for the Assessment.
+
+**Note:**
+   * **We need to create one separate Public GitHub Repository for each new Practice Test.**
+   * **We need to create one separate Markdown file for each Questions and the naming conventions for the Questions markdown file should be "Question-xx.md"**  
+   * **Once you have authored the practice test in the github connect with the CloudLabs team to onboard it on the CloudLabs portal.**
    
 # Types of the Questions and their format for the Practice Test(Knowledge Assessment).
 
@@ -97,7 +102,7 @@ We can create the Numeric Input question by using below question format.
 
 **Sample Question Format Link: https://github.com/CloudLabsAI-Azure/Assessment-Sample/blob/main/Practice-Test/Section-01/Question-08.md**
 
-**Note: Once you have authored the practice test in the github connect with the CloudLabs team to onboard it on the CloudLabs portal.**
+
 
 
 
