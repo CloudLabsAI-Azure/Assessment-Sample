@@ -47,7 +47,7 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 
 10. Course is now mapped with the video link which we provided in the On Demand Lab in Steps 4.
 
-Course video file can be accessed through login [https://portal.cloudlabs.ai/](https://portal.cloudlabs.ai/).
+> Course video file can be accessed through login [https://portal.cloudlabs.ai/](https://portal.cloudlabs.ai/).
 
 11. Navigate to the Courses section from the top menu and click on **Play button** to play the video content.
 
