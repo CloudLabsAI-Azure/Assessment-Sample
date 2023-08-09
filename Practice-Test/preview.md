@@ -1,17 +1,17 @@
-# **Adding Video Content File To Course**
+# **Adding a video file to a course**
 
 ###
 
 ### **Overview**
 
-The objective of this document is to know how we can add video to the On Demand labs which will be accessed through CloudLabs Portal.
+The objective of this document is to know how we can add video to the course which will be accessed through CloudLabs Portal.
 
 Follow the below steps to get started: -
 
 Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted)
 
 1. Select your Tenant
-2. Click on **On Demand**** Labs** from the left navigation pane.
+2. Click on **On Demand Labs**  from the left navigation pane.
 3. Click on Edit under Actions.
 
 ![](./images/iq1.png)
@@ -19,7 +19,7 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 4. Scroll down towards the following fields mentioned below to add video file to On Demand Lab and fill in the required details. The field marked with an asterisk sign (\*) is mandatory. Refer to the explanation below If you need help understanding the usage of each field.
 
 - **Video:** Paste the video link in the tab. This option is used for adding a video link.
-- **Usage**** Purpose:** This is an optional field. Users need to select Lecture or None.
+- **Usage Purpose** :This is an optional field. Users need to select Lecture or None.
 - **Video Approval\*:** Select how you would like to approve the requests.
 
 ![](./images/iq2.png)
