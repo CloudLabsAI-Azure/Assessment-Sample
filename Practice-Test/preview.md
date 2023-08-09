@@ -22,15 +22,15 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 - **Usage**** Purpose:** This is an optional field. Users need to select Lecture or None.
 - **Video Approval\*:** Select how you would like to approve the requests.
 
-![](RackMultipart20230809-1-qbqfu2_html_1f511bf6cb6eed30.png)
+![](./images/iq2.png)
 
 5. Scroll to the top and copy the **clid parameter** and save it in Notepad to use for upcoming steps.
 
-![](RackMultipart20230809-1-qbqfu2_html_dd7834e95179165.png)
+![](./images/iq3.png)
 
 6. Click on **Submit** to save the configured changes.
 
-![](RackMultipart20230809-1-qbqfu2_html_3356943dcf1e3333.png)
+![](./images/iq4.png)
 
 7. Navigate again to https://admin.cloudlabs.ai/ to map the On Demand Lab video to Cloudlabs Course.
 
@@ -38,15 +38,15 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 2. Click on **Courses (2)** from the left navigation pane and select the course.
 3. Click on **Settings (3)** button under Actions.
 
-![](RackMultipart20230809-1-qbqfu2_html_882d0d0db94b2c9e.png)
+![](./images/iq5.png)
 
 8. Modify the Course Content Section having **clid parameter** in JSON format which we need to replace with clid parameter**(0c203793-4121-4b34-aaee-cf07ec42d3fd)** which we saved in step 5.
 
-![](RackMultipart20230809-1-qbqfu2_html_b40c80bd5097cdf1.png)
+![](./images/iq6.png)
 
 **Sample JSON Syntax for Course Section Content.**
 
-![](RackMultipart20230809-1-qbqfu2_html_9b107c42a07af500.png)
+![](./images/iq7.png)
 
 9. Course is now mapped with the video link which we provided in the On Demand Lab in Steps 4.
 
@@ -54,4 +54,4 @@ Course video file can be accessed through login [https://portal.cloudlabs.ai/](h
 
 10. Navigate to the Courses section from the top menu and click on **Play button** to play the video content.
 
-![](RackMultipart20230809-1-qbqfu2_html_3c689b4b89d45c00.png)
+![](./images/iq8.png)
