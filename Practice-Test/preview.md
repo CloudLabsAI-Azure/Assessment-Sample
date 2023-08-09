@@ -18,13 +18,13 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 
 4. Scroll down towards the following fields mentioned below to add video file to On Demand Lab and fill in the required details. The field marked with an asterisk sign (\*) is mandatory. Refer to the explanation below If you need help understanding the usage of each field.
 
-- **Video:** Paste the video link in the tab. This option is used for adding a video link.
-- **Usage Purpose** :This is an optional field. Users need to select Lecture or None.
-- **Video Approval\*:** Select how you would like to approve the requests.
+- **Video:** In this field, paste the video link. A video link can be added using this option.
+- **Usage Purpose**: This is an optional field. Users need to select Lecture or None.
+- **Video Approval**: Select how you would like to approve the requests.
 
 ![](./images/iq2.png)
 
-5. Scroll to the top and copy the **clid parameter** and save it in Notepad to use for upcoming steps.
+5. Scroll to the top and copy the **Unique CLID** (Unique CloudLabs ID) and save it in the Notepad to use for upcoming steps.
 
 ![](./images/iq3.png)
 
@@ -32,15 +32,12 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 
 ![](./images/iq4.png)
 
-7. Navigate again to https://admin.cloudlabs.ai/ to map the On Demand Lab video to Cloudlabs Course.
-
-1. Select your **Tenant**
-2. Click on **Courses (2)** from the left navigation pane and select the course.
-3. Click on **Settings (3)** button under Actions.
+7. Click on **Courses (2)** from the left navigation pane and select the course.
+8. Click on **Settings (3)** button under Actions.
 
 ![](./images/iq5.png)
 
-8. Modify the Course Content Section having **clid parameter** in JSON format which we need to replace with clid parameter**(0c203793-4121-4b34-aaee-cf07ec42d3fd)** which we saved in step 5.
+9. Modify the Course Content Section having **clid parameter** in JSON format which we need to replace with clid parameter**(0c203793-4121-4b34-aaee-cf07ec42d3fd)** which we saved in step 5.
 
 ![](./images/iq6.png)
 
@@ -48,10 +45,10 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 
 ![](./images/iq7.png)
 
-9. Course is now mapped with the video link which we provided in the On Demand Lab in Steps 4.
+10. Course is now mapped with the video link which we provided in the On Demand Lab in Steps 4.
 
 Course video file can be accessed through login [https://portal.cloudlabs.ai/](https://portal.cloudlabs.ai/).
 
-10. Navigate to the Courses section from the top menu and click on **Play button** to play the video content.
+11. Navigate to the Courses section from the top menu and click on **Play button** to play the video content.
 
 ![](./images/iq8.png)
