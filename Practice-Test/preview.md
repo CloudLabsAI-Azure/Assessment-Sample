@@ -1,18 +1,18 @@
-# **Adding a video file to a course**
+# **How to add a video in a course**
 
 ###
 
 ### **Overview**
 
-The objective of this document is to know how we can add video to the course which will be accessed through CloudLabs Portal.
+The objective of this document is to know how we can add video to the Courses which will be accessed through CloudLabs Portal.
 
 Follow the below steps to get started: -
 
-Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login to the Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted)
+Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login to the CloudLabs Admin Centre or follow this detailed guide [click here](https://docs.cloudlabs.ai/Instructor/GettingStarted)
 
-1. Select your Tenant
-2. Click on **On Demand Labs**  from the left navigation pane.
-3. Click on Edit under Actions.
+1. If you have access to more than one tenant, choose the appropriate one from the drop-down menu in the top right corner.
+2. Click on the **On Demand Labs** from the left navigation pane.
+3. Click on the **Edit** button available under Actions.
 
 ![](./images/iq1.png)
 
