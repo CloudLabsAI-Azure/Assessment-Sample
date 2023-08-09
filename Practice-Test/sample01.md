@@ -7,9 +7,9 @@
 3. Follow the below steps to create Questions for the Assessment.
 
 **Note:**
-   * **We need to create one separate Public GitHub Repository for each new Practice Test.**
-   * **We need to create one separate Markdown file for each Questions and the naming conventions for the Questions markdown file should be "Question-xx.md"**  
-   * **Once you have authored the practice test in the github connect with the CloudLabs team to onboard it on the CloudLabs portal.**
+   * **We need to create one separate Folder for each new Practice Test that we need to onboard.**
+   * **We need to create one separate Markdown file for each Questions and the naming conventions for the Questions markdown file should be "Question-(xx).md(Here (xx) is a numeric value for eg Question-01.md)."**  
+   * **Once you have authored the practice test in the github, connect with the CloudLabs team to onboard it on the CloudLabs portal.**
    
 # Types of the Questions and their format for the Practice Test(Knowledge Assessment).
 
