@@ -16,7 +16,7 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 
 ![](./images/iq1.png)
 
-1. Scroll down towards the following fields mentioned below to add video file to On Demand Lab and fill in the required details. The field marked with an asterisk sign (\*) is mandatory. Refer to the explanation below If you need help understanding the usage of each field.
+4. Scroll down towards the following fields mentioned below to add video file to On Demand Lab and fill in the required details. The field marked with an asterisk sign (\*) is mandatory. Refer to the explanation below If you need help understanding the usage of each field.
 
 - **Video:** Paste the video link in the tab. This option is used for adding a video link.
 - **Usage**** Purpose:** This is an optional field. Users need to select Lecture or None.
