@@ -12,9 +12,8 @@ Navigate to [https://admin.cloudlabs.ai/](https://admin.cloudlabs.ai/) and Login
 
 1. Select your Tenant
 2. Click on **On Demand**** Labs** from the left navigation pane.
-3. Click on ![](RackMultipart20230809-1-qbqfu2_html_6cd0d95923bd2007.png)Edit under Actions.
+3. Click on Edit under Actions.
 
-![](RackMultipart20230809-1-qbqfu2_html_2b47aab48d55f776.png)
 
 1. Scroll down towards the following fields mentioned below to add video file to On Demand Lab and fill in the required details. The field marked with an asterisk sign (\*) is mandatory. Refer to the explanation below If you need help understanding the usage of each field.
 
